@@ -1,9 +1,9 @@
 date,modality,model,scene,prompt_version,run,seed,aspect_ratio,settings,pass_fail,fail_reason,score_A,score_B,score_C,score_D,score_E,notes,file_path
-2026-02-04,T2I,S2,2,Promptv01,01,,,unknown (fill in),,,,,,,,,01_raw/t2i/T2I_FLUX1_S2_Promptv01_RUN01_20260204.png
-2026-02-04,T2I,2,2,Promptv01,01,,,unknown (fill in),,,,,,,,,01_raw/t2i/T2I_FLUX1_2_S2_Promptv01_RUN01_20260204.png
-2026-02-04,T2I,S5,5,Promptv01,01,,,unknown (fill in),,,,,,,,,01_raw/t2i/T2I_FLUX1_S5_Promptv01_RUN01_20260204.png
-2026-02-04,T2I,S4,4,Promptv01,01,,,unknown (fill in),,,,,,,,,01_raw/t2i/T2I_FLUX1_S4_Promptv01_RUN01_20260204.png
-2026-02-04,T2I,S1,1,Promptv01,01,,,unknown (fill in),,,,,,,,,01_raw/t2i/T2I_FLUX2_S1_Promptv01_RUN01_20260204.png
+2026-02-04,T2I,FLUX1,S2,Promptv01,01,,1:1,1024x1024,pass,,8,8,8,8,8,Boreal forest; light snowfall; no humans/animals/structures seen.,01_raw/t2i/T2I_FLUX1_S2_Promptv01_RUN01_20260204.png
+2026-02-04,T2I,FLUX1,S2,Promptv01,01,,1:1,1024x1024,pass,,8,8,8,8,8,Boreal forest; snow cover; no humans/animals/structures seen.,01_raw/t2i/T2I_FLUX1_2_S2_Promptv01_RUN01_20260204.png
+2026-02-04,T2I,FLUX1,S5,Promptv01,01,,1:1,1024x1024,fail,structures/settlement lights,9,8,7,6,8,Aurora over snowy valley; visible town/settlement lights in valley.,01_raw/t2i/T2I_FLUX1_S5_Promptv01_RUN01_20260204.png
+2026-02-04,T2I,FLUX1,S4,Promptv01,01,,1:1,1024x1024,pass,,8,8,8,8,8,Coastal cliffs; no humans/animals/structures seen.,01_raw/t2i/T2I_FLUX1_S4_Promptv01_RUN01_20260204.png
+2026-02-04,T2I,FLUX2,S1,Promptv01,01,,4:3,1024x768,pass,,8,8,8,8,8,Arctic fjord; no humans/animals/structures seen.,01_raw/t2i/T2I_FLUX2_S1_Promptv01_RUN01_20260204.png
 2026-02-05,T2V,LumaRay314,S1,Promptv01,01,,16:9,watermarked; 640x360; 24fps; 5.33s,fail,watermark/logo text,8,8,7,8,7,Arctic fjord; no humans/animals/structures seen; clean motion.,01_raw/t2v/2026-02-05T04-01-04_cinematic_slow_watermarked.mp4
 2026-02-05,T2V,LumaRay314,S3,Promptv01,01,,16:9,watermarked; 640x360; 24fps; 5.33s,fail,watermark/logo text,9,8,7,8,7,Alpine lake at dawn; no humans/animals/structures seen; smooth camera.,01_raw/t2v/2026-02-05T04-01-57_cinematic_slow_watermarked.mp4
 2026-02-05,T2V,LumaRay314,S4,Promptv01,01,,16:9,watermarked; 640x360; 24fps; 5.33s,fail,watermark/logo text,8,8,7,8,7,Coastal cliffs; no humans/animals/structures seen; mild wave motion.,01_raw/t2v/2026-02-05T04-03-47_cinematic_slow_watermarked.mp4
