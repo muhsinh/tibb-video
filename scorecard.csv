@@ -1,0 +1,6 @@
+date,modality,model,scene,prompt_version,run,seed,aspect_ratio,settings,pass_fail,fail_reason,score_A,score_B,score_C,score_D,score_E,notes,file_path
+2026-02-04,T2I,S2,2,Promptv01,01,,,unknown (fill in),,,,,,,,,01_raw/t2i/T2I_FLUX1_S2_Promptv01_RUN01_20260204.png
+2026-02-04,T2I,2,2,Promptv01,01,,,unknown (fill in),,,,,,,,,01_raw/t2i/T2I_FLUX1_2_S2_Promptv01_RUN01_20260204.png
+2026-02-04,T2I,S5,5,Promptv01,01,,,unknown (fill in),,,,,,,,,01_raw/t2i/T2I_FLUX1_S5_Promptv01_RUN01_20260204.png
+2026-02-04,T2I,S4,4,Promptv01,01,,,unknown (fill in),,,,,,,,,01_raw/t2i/T2I_FLUX1_S4_Promptv01_RUN01_20260204.png
+2026-02-04,T2I,S1,1,Promptv01,01,,,unknown (fill in),,,,,,,,,01_raw/t2i/T2I_FLUX2_S1_Promptv01_RUN01_20260204.png
